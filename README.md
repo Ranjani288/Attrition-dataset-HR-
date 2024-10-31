@@ -1,1 +1,2 @@
 # Attrition-dataset-HR-
+An employe attrition dataset comprising of about 917 rows and 30 columns of data has various records related to a employee, such that one can predict the chances of attrition. A classification problem that is attempted to be solved using multiple algorithms like logistic regression, decision tree and random forest. The dataset presents itself with severe class imbalance making the predictive abilities more challenging.
